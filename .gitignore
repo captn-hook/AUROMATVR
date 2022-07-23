@@ -1,0 +1,11 @@
+Library/
+Logs/
+Packages/
+Temp/
+UserSettings/
+Assets/ExampleAssets/
+Assets/SteamVR/
+Assets/SteamVR_Input/
+Assets/SteamVR_Resources/
+Assets/StreamingAssets/
+Assets/XR/
